@@ -1,4 +1,5 @@
-👋 Hi there 😀
+# Uriel Ramos | Senior BI & Analytics Specialist
+### Transforming Complex Data into Executable Business Outcomes
 
 I am a **Senior BI & Analytics Specialist** experienced in building reports and analytical solutions for small and medium-sized businesses.
 
