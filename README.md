@@ -19,8 +19,8 @@ As a **Microsoft Certified and Databricks Professional**, I don't just build rep
 ### 🛠️ Services
 
 * **BI Performance Audits:** I conduct "BI Health Checks" reviewing your existing reports to optimize performance, improve data accuracy, and ensure a single source of truth.
-* **Advanced Analytics & Automation:** Automating manual data processes, freeing your team from spreadsheet fatigue so they can focus on high-value tasks.
-* **Executive Reporting Solutions:** Design high-impact dashboards that transform fragmented, complex data into clear, executive-ready narratives.
+* **Automation:** Automating manual data processes, freeing your team from spreadsheet fatigue so they can focus on high-value tasks.
+* **Advanced Analytics & Executive Reporting Solutions:** A structured, closed-scope engagement that transforms business requirements into executive-ready dashboards covering discovery, data modeling, dashboard development, validation, and production deployment with clear timelines, fixed deliverables, and no surprises.
 
 ---
 
