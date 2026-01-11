@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi there 😀
 
-<!--
-**uramoss/uramoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior BI & Analytics Specialist** experienced in building reports and analytical solutions for small and medium-sized businesses.
 
-Here are some ideas to get you started:
+As a **Microsoft Certified and Databricks Professional**, I don't just build reports; I engineer **"Intelligent Systems"** that automate critical workflows, anticipate market shifts through advanced analytics, and optimize business ROI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Core Expertise
+
+* **End-to-End Analytics Lifecycle:** Full development cycle—from strategic requirements gathering and functional documentation to global deployment.
+* **Advanced Data Modeling & Architecture:** Designing and building high-performance Data Models that serve as the foundation for high-performing reports as a scalable "Single Source of Truth".
+* **DAX Optimization & Power Query:** Skilled in writing complex DAX for advanced business logic and leveraging Power Query (M) for transformation and cleansing.
+* **Advanced Visualization & Storytelling:** Specialist in high-performance Power BI environments, creating intuitive reports tailored for decision-makers in **Sales, Media, Finance, Logistics, and Contact Centers**.
+
+---
+
+### 🛠️ Services
+
+* **BI Performance Audits:** I conduct "BI Health Checks" reviewing your existing reports to optimize performance, improve data accuracy, and ensure a single source of truth.
+* **Advanced Analytics & Automation:** Automating manual data processes, freeing your team from spreadsheet fatigue so they can focus on high-value tasks.
+* **Executive Reporting Solutions:** Design high-impact dashboards that transform fragmented, complex data into clear, executive-ready narratives.
+
+---
+
+### 📬 Let's Connect
+
+Whether you're looking to win new business with insights, automate your reporting workflows, or build a scalable cloud analytics foundation, I can help. 
+
+**[LinkedIn](https://www.linkedin.com/in/urielramoss)** | **[Email](mailto:urielramoss@gmail.com)** 
