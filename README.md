@@ -29,3 +29,12 @@ As a **Microsoft Certified and Databricks Professional**, I don't just build rep
 Whether you're looking to win new business with insights, automate your reporting workflows, or build a scalable cloud analytics foundation, I can help. 
 
 **[LinkedIn](https://www.linkedin.com/in/urielramoss)** | **[Email](mailto:urielramoss@gmail.com)** 
+
+---
+
+
+### ⭐ Badges
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
